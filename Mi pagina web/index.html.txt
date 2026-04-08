@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+ <meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width, initial-
+scale=1.0">
+<title>Pro Painting & Remodeling | Exterior & Interior Experts</title>
+      <link real="stylesheet"
+href="style.cass">
+  </head>
+  <body>
+    <header>
+    <h1> Discount Total remodeling <h1> 
+        <nav>
+    <a href:"index.html"<Home<a/>  
+     <a href:"service.html"< Service</a>
+      <a href:"gallery.html"< Galery</a>
+         <a href:"contact.html"<Contact<a/>   
+            
+            </nav>
+
+         </header>
+
+          <main>
+
+             <h2> Welcome! </h2>
+
+               <p> We specialize in painting and remodeling with craftmanship </p>
+
+               </main>
+
+              <footer>
+                <P> @ 2019 Discount Total Remodeling| mail. discounttotalremodeling2009@gmail.com </P>
+                 </footer>
+
+</body>
+</html>
